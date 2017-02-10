@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7bae16"
+    tools:context="com.example.user2.singleviewfragment.LM_Fragement">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/landscape_message"
+        android:textColor="#000000"
+        android:textSize="20px" />
+
+    <!-- More GUI components go here  -->
+
+</LinearLayout>
